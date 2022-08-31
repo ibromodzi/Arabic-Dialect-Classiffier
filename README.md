@@ -4,6 +4,6 @@ The program demonstartes basic Arabic text preprocessing and classifcation of Ar
 
 ## Support
 
-For support, email ibromodzi@gmail.com or join our Slack channel.
+For support, email ibromodzi@gmail.com
 
 
