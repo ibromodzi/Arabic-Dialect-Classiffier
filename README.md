@@ -5,8 +5,11 @@ The Arabic Dialect Classifier is a demonstration of how to preprocess Arabic tex
 ## Files
 
 Arabic_dialect_classifier.ipynb: This Jupyter Notebook contains the main project code. It demonstrates the steps of Arabic text preprocessing and the implementation of different machine learning algorithms for dialect classification.
+
 MADAR-Corpus-26-dev.tsv: This file contains the development dataset for the project. It's used for testing and validation purposes.
+
 MADAR-Corpus-26-train.tsv: This file contains the training dataset used to train the machine learning models.
+
 README.md: You're currently reading this file! It provides an overview of the project, instructions, and details about the available files.
 
 ## Usage
